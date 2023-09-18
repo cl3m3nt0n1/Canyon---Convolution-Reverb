@@ -4,8 +4,7 @@
 
 Canyon is a convolution reverb VST plugin made with JUCE. This emerges from a computer engineering school project in which we wanted to develop an app that combined Acoustics and Computer Science.
 
-![canyon-screenshot](https://github.com/cl3m3nt0n1/Canyon---Convolution-Reverb/assets/118217064/40c6e6cb-99c4-4103-8e4e-14964e610ae3)
-
+![canyon-screenshot](https://github.com/cl3m3nt0n1/Canyon---Convolution-Reverb/assets/118217064/a7e48f05-2abb-429e-8edf-14a6219e8962)
 
 During this project we recorded Impulse Responses of some of Le Mans' famous locations such as : Cathédrale St-Julien, Abbaye de l'Epau and others (mostly on campus). We share every one of them inside the IR.zip file and release them under the creative commons license.
 
